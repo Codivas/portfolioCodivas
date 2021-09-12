@@ -13,10 +13,10 @@
 
 
 <h2 id="utilizados">:sparkles: O que foi utilizado</h2>
-<p> Nesse projeto foi utilizado <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong> e a ferramenta <strong>Bootstrap</strong> para responsividade do portfólio.</p>
+<p> Nesse projeto foi utilizado <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong> e a ferramenta <strong>Bootstrap</strong> para responsividade do portfólio :sparkling_heart:</p>
 
 <h2 id="importancia">:sparkles: Importância do Portfólio</h2>
-<p>O seu portfólio é a sua vitrine virtual, é o modo em que você mostra suas habilidades, experiências e qualidades. É uma ferramenta de fácil acesso para avaliar suas competências.</p>
+<p>O seu portfólio é a sua vitrine virtual, é o modo em que você mostra suas habilidades, experiências e qualidades. É uma ferramenta de fácil acesso para avaliar suas competências :sparkling_heart: </p>
 
 
 <br>
