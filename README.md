@@ -23,4 +23,7 @@
 
 <h5 align="center">Meu cérebro é mais do que algo meramente mortal - Ada Lovelace</h5>
 
+<br>
+<br>
+
 <img align="center" src="https://i.imgur.com/076Tm1Z.png"/>
